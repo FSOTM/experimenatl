@@ -5,7 +5,7 @@ Personal experiment
 
 ** push，推送。像原来的总支作者推送自己的版本，请求他他接受并将你的代码合并到总支当中。 **
 
-** pull，拉。接受别人pull的代码。 **
+** pull，拉。接受别人push的代码。 **
 
 First Header | Second Header
 ------------ | -------------
