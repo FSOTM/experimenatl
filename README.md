@@ -11,3 +11,16 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+
+```c
+#define <stdio.h>
+
+int main(argc, argv)
+int argc;
+char *argv[];
+{
+     printf("what is color?");
+
+     return 222;
+}
+```
